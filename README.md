@@ -300,7 +300,7 @@ GROUP BY shift_name;
 
 This project covers database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance. SQL techniques used are:
 * **Conditional Logic:** Utilizing `CASE WHEN` to dynamically group continuous time data into operational categories.
-* **Window Functions:** Writing analytical operations like `DENSE_RANK() OVER (PARTITION BY ... ORDER BY ...)` to determine performance tiers without losing raw row detail.
+* **Window Functions:** Writing analytical operations like `RANK() OVER (PARTITION BY ... ORDER BY ...)` to determine performance tiers without losing raw row detail.
 * **Common Table Expressions (CTEs):** Structuring complex queries using `WITH` statements to write modular, readable, and highly maintainable code.
 * **Date and Time Extraction:** Isolating years, months, and hours from transactional timestamps using `EXTRACT` and `TO_CHAR` for accurate chronological reporting.
 * **Aggregations:** Applying grouping and filtration techniques using `SUM`, `AVG`, `COUNT(DISTINCT)`, and `GROUP BY`.
