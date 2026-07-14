@@ -5,11 +5,9 @@
 **Project Title**: Retail Sales Analysis  
 **Dataset**: Sourced From Zero Analyst 
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+This project is designed to demonstrate my SQL skills and techniques for exploring, cleaning, and analyzing retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
 
-This project focuses on analyzing a retail transaction database using PostgreSQL to extract actionable business insights. My goal was to bridge the gap between raw database schemas and business questions about customer behavior, sales trends, and operational efficiency. 
-
-As a data analyst, I used SQL to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
+This project focuses on analyzing a retail transaction database using PostgreSQL to extract actionable business insights. My goal was to bridge the gap between raw database schemas and business questions about customer behavior, sales trends, and operational efficiency.  
 
 ## Objectives
 
